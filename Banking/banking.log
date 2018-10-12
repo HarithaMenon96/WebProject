@@ -1,0 +1,3 @@
+09 Oct 2018 10:39:18,504 INFO main com.deloitte.service.BankingDaoJdbc - Updating balance for accNo: 12345, amount: 1000.0
+09 Oct 2018 15:03:28,002 ERROR main com.deloitte.service.BankingDaoJdbc - ORA-06575: Package or function BANK_PROC1 is in an invalid state
+
